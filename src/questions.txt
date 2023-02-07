@@ -1,0 +1,5 @@
+What is the number of layers in the OSI model? /2 layers /4 layers /7 layers /9 layers /3
+What is a HUB? /Software /Computing Device /Network Device /Calculating Device /3
+What does a set of rules define? /SMTP /FTP /IMAP /Protocol /4
+Identify the protocol primarily used for browsing data. /FTP /TCP /TFTP /HTTP /4
+What is the location of a resource on the internet given by? /Email /IP /Protocol /URL /4
